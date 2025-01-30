@@ -1,6 +1,6 @@
 package Interview;
 
-public class primeNumber {
+public class PrimeNumber {
     static String prime(int n){
 
         for(int i = 2;i <n ; i++) {
